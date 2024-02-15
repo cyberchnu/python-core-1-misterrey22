@@ -1,0 +1,114 @@
+{
+  "tests": [
+    {
+      "name": "test_addition.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_both.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_calculate_fuel.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_fizz_buzz.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_int_within_bounds.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_hello.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_makes10.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_mean.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_squares_sum.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_sum_even_nums_in_range.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "test_tri_area.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
